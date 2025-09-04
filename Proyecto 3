@@ -5,3 +5,6 @@ public class holamndo 2 {public class void main(String[] args)
 {system.out.println("hola mexico 2.0");
 }
 }
+public class hola mundo 3 {public static void main(String[] args) {System.out.println("Hola mexico 3")
+}
+}
