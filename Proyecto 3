@@ -1,3 +1,7 @@
 public class  hola mundo { public static void main(String[] args) {System.out.println("hola mexico")
 }
 }
+public class holamndo 2 {public class void main(String[] args)
+{system.out.println("hola mexico 2");
+}
+}
