@@ -2,6 +2,6 @@ public class  hola mundo { public static void main(String[] args) {System.out.pr
 }
 }
 public class holamndo 2 {public class void main(String[] args)
-{system.out.println("hola mexico 2");
+{system.out.println("hola mexico 2.0");
 }
 }
